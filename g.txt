@@ -4,6 +4,10 @@ If you promise something you have to do it
 my bag bag,there is no my bag,i can not have a both.
 it is time to sleeping.
 expi
+<<<<<<< HEAD:g.txt
 
 20200314
 keep going and pretend lost in space
+=======
+git is usfull tool.
+>>>>>>> 2bb66aa1a8551b5109c258af2504749f96e11ae7:test.txt
